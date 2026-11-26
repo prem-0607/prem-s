@@ -1,0 +1,1 @@
+# My First DevOps Project print("Welcome to DevOps Learning!") name = "Prem" print("Hello", name) topics = [ "Linux", "Git", "GitHub", "AWS", "Jenkins", "Docker" ] print("\nDevOps Topics:") for topic in topics: print("-", topic) print("\nKeep Learning DevOps!")
